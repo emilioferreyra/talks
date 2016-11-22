@@ -1,7 +1,0 @@
-id,created,modified,created_with_session_key,modified_with_session_key,name,gender,email,phone_number,address,picture,status_active,created_by_id,modified_by_id,person_type_id
-1,11/11/2016 3:55:43 PM,11/18/2016 6:19:07 PM,,,Django,M,django_rocks@gmail.com,809-555-6969,,people_pictures/Django3.png,true,,,1
-2,11/18/2016 6:13:16 PM,11/18/2016 6:15:17 PM,,,Broomhilda von Shaft,F,broomy_find_me@hotmail.com,809-765-4327,,people_pictures/Broomhilda_von_Shaft.jpg,true,,,3
-3,11/18/2016 6:16:25 PM,11/18/2016 6:16:25 PM,,,Dr. King Shultz,M,the_king_shot@gmail.com,999-999-9999,,people_pictures/Dr._King_Schultz.jpg,true,,,1
-4,11/18/2016 6:20:13 PM,11/18/2016 6:20:13 PM,,,Calvin Candie,M,calvinator@gmail.com,999-999-9999,,people_pictures/Calvin_Candie2.jpg,true,,,2
-5,11/18/2016 6:21:59 PM,11/18/2016 6:21:59 PM,,,Stephen,M,stephenator@gmail.com,999-999-9999,,people_pictures/Stephen2.png,true,,,2
-6,11/18/2016 6:22:54 PM,11/18/2016 6:22:54 PM,,,Big Daddy,M,daddy_yankie@hotmail.com,999-999-9999,,people_pictures/Big_Daddy.jpg,true,,,2
