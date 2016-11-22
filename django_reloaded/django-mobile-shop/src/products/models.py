@@ -92,7 +92,7 @@ class ProductPicture(models.Model):
 
     class Meta:
         verbose_name = "Product Picture"
-        verbose_name_plural = "ProductPicturess"
+        verbose_name_plural = "Product Pictures"
 
     def __str__(self):
         return '%s' % (self.picture.url)
