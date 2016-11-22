@@ -7,7 +7,7 @@ This description shows the most outstanding features of Django, as far as produc
 
 
 **Django Mobile Shop**
-Sample project for learning purpouse, implemented into Django Reloaded talk. Here are a couple of screenshots. A few more in [here](https://github.com/emilioferreyra/talks/tree/master/django_reloaded/django-mobile-shop/docs/screenshots)
+Sample project for learning purpouse, implemented into Django Reloaded talk. Here are a couple of screenshots. A few more [here](https://github.com/emilioferreyra/talks/tree/master/django_reloaded/django-mobile-shop/docs/screenshots)
 
 Person list:
 ![persons_list](https://github.com/emilioferreyra/talks/blob/master/django_reloaded/django-mobile-shop/docs/screenshots/person_list.png?raw=true)
